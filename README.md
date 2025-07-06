@@ -6,47 +6,51 @@
 
 <h2>🛠️ Tecnologías que manejo</h2>
 
+<h2>🛠️ Tecnologías que manejo</h2>
+
 <table>
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=java" /><br/>Java
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=spring" /><br/>Spring Boot
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=hibernate" /><br/>Hibernate
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=maven" /><br/>Maven
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=git" /><br/>Git
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=github" /><br/>GitHub
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=postman" /><br/>Postman
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://img.icons8.com/ios/100/api.png" width="40"/><br/>APIs RESTful
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white" /><br/>RESTful APIs
     </td>
-    <td align="center" width="100">
-      <img src="https://img.icons8.com/ios-filled/100/code.png" width="40"/><br/>Clean Code
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/SOLID_Principles-4B4B4B?style=for-the-badge&logo=codeforces&logoColor=white" /><br/>Principios SOLID
     </td>
-    <td align="center" width="100">
-      <img src="https://img.icons8.com/ios-filled/100/settings.png" width="40"/><br/>SOLID
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Clean%20Code-2E8B57?style=for-the-badge&logo=airplayvideo&logoColor=white" /><br/>Código Limpio
     </td>
-    <td align="center" width="100">
-      <img src="https://seeklogo.com/images/S/sonarqube-logo-6BFCF7CBA0-seeklogo.com.png" width="40"/><br/>SonarQube
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" /><br/>SonarQube
     </td>
   </tr>
 </table>
