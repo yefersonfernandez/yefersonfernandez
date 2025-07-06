@@ -6,11 +6,59 @@
 
 <h2>🛠️ Tecnologías que manejo</h2>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,oracle,mysql,maven,py,git,github,vscode,postman,docker,linux&perline=8" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" /><br/>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=spring" /><br/>Spring Boot
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=hibernate" /><br/>Hibernate
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=maven" /><br/>Maven
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=oracle" /><br/>Oracle
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=py" /><br/>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" /><br/>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" /><br/>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" /><br/>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" /><br/>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" /><br/>Postman
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code
+    </td>
+  </tr>
+</table>
+
 
 🚀 Actualmente trabajo como **Analista I+D III en OSP INTERNATIONAL CALA SAS**  
 🎓 Estudiante de Ingeniería de Sistemas en la UNAD (Universidad Nacional Abierta y a Distancia)
