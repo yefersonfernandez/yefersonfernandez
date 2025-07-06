@@ -6,34 +6,32 @@
 
 <h2>🛠️ Tecnologías que manejo</h2>
 
-<h2>🛠️ Tecnologías que manejo</h2>
-
 <table>
   <tr>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=java" /><br/>Java
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=spring" /><br/>Spring Boot
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=hibernate" /><br/>Hibernate
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=maven" /><br/>Maven
     </td>
   </tr>
   <tr>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=git" /><br/>Git
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=github" /><br/>GitHub
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postman" /><br/>Postman
     </td>
   </tr>
