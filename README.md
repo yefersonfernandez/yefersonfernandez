@@ -6,6 +6,8 @@
 
 <h2>🛠️ Tecnologías que manejo</h2>
 
+<h2>🛠️ Tecnologías que manejo</h2>
+
 <table>
   <tr>
     <td align="center" width="100">
@@ -15,50 +17,27 @@
       <img src="https://skillicons.dev/icons?i=spring" /><br/>Spring Boot
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=hibernate" /><br/>Hibernate
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=maven" /><br/>Maven
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=oracle" /><br/>Oracle
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=py" /><br/>Python
+      <img src="https://skillicons.dev/icons?i=git" /><br/>Git
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" /><br/>Git
-    </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=github" /><br/>GitHub
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=docker" /><br/>Docker
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux" /><br/>Linux
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postman" /><br/>Postman
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code
+      🧠<br/>Buenas Prácticas
+    </td>
+    <td align="center" width="100">
+      🔗<br/>APIs RESTful
     </td>
   </tr>
 </table>
-
 
 🚀 Actualmente trabajo como **Analista I+D III en OSP INTERNATIONAL CALA SAS**  
 🎓 Estudiante de Ingeniería de Sistemas en la UNAD (Universidad Nacional Abierta y a Distancia)
