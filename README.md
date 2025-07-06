@@ -1,8 +1,14 @@
-# 👋 ¡Hola! Soy Yeferson Andres Fernandez Moreno
+# 👋 ¡Hola! Soy **Yeferson Andrés Fernandez Moreno**
 
-🎯 **Desarrollador Backend** con más de 4 años de experiencia creando sistemas robustos y escalables utilizando Java y Spring Boot.
+🧑‍💻 **Desarrollador Backend** con más de **4 años de experiencia** creando soluciones robustas y escalables utilizando **Java** y **Spring Boot**.
 
-💼 Me especializo en el diseño de APIs RESTful, desarrollo de microservicios y en asegurar la calidad del software aplicando buenas prácticas como Clean Code, principios SOLID y análisis estático con SonarQube.
+💡 Me especializo en:
+- Diseño de **APIs RESTful**
+- Desarrollo basado en **microservicios**
+- Aplicación de buenas prácticas como **Clean Code** y principios **SOLID**
+- Implementación de análisis estático con **SonarQube**
+
+🎯 Apasionado por construir software limpio, mantenible y orientado a resultados reales.
 
 <h2>🛠️ Tecnologías que manejo</h2>
 
