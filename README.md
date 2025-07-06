@@ -4,8 +4,13 @@
 
 💼 Me especializo en el diseño de APIs RESTful, desarrollo de microservicios y en asegurar la calidad del software aplicando buenas prácticas como Clean Code, principios SOLID y análisis estático con SonarQube.
 
-🛠️ **Stack tecnológico:**  
-Java | Spring Boot | JPA (Hibernate) | PostgreSQL | Oracle | Git | GitHub | Maven | Swagger | SonarQube | Python (básico)
+<h2>🛠️ Tecnologías que manejo</h2>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,oracle,mysql,maven,py,git,github,vscode,postman,docker,linux&perline=8" />
+  </a>
+</p>
 
 🚀 Actualmente trabajo como **Analista I+D III en OSP INTERNATIONAL CALA SAS**  
 🎓 Estudiante de Ingeniería de Sistemas en la UNAD (Universidad Nacional Abierta y a Distancia)
