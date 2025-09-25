@@ -2,7 +2,7 @@
 
 🧑‍💻 **Desarrollador Backend** con más de **5 años de experiencia** creando soluciones robustas y escalables utilizando **Java** y **Spring Boot**.
 
-💡 Me especializo en:
+💡 Me enfoco en:
 - Diseño de **APIs RESTful**
 - Desarrollo basado en **microservicios**
 - Aplicación de buenas prácticas como **Clean Code** y principios **SOLID**
