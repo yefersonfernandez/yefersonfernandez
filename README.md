@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-🚀 Actualmente trabajo como **Analista I+D III en OSP INTERNATIONAL CALA SAS**  
+🚀 Actualmente trabajo como **Desarrollador de software en Pragma**  
 🎓 Estudiante de Ingeniería de Sistemas en la UNAD (Universidad Nacional Abierta y a Distancia)
 
 📫 **Contacto:**  
